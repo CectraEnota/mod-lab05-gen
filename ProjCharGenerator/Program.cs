@@ -141,11 +141,6 @@ namespace ProjCharGenerator
 
         private void LoadWords(string filePath)
         {
-            if (string.IsNullOrEmpty(content))
-            {
-                throw new FileNotFoundException($"Файл со словами не найден: {filePath}");
-            }
-
             var lines = File.ReadAllLines(filePath, Encoding.UTF8);
             if (lines.Length == 0)
             {
