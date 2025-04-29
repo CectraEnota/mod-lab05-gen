@@ -32,18 +32,17 @@
               "RelativeToolTip": "..\\ProjCharGenerator\\Program.cs",
               "ViewState": "AgIAAAABAAAAAAAAAAAiwAEBAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-29T13:30:12.854Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-29T13:30:12.854Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "ProjCharGenerator",
+              "Title": "ProjCharGenerator.csproj",
               "DocumentMoniker": "C:\\Users\\79087\\mod-lab05-gen\\ProjCharGenerator\\ProjCharGenerator.csproj",
               "RelativeDocumentMoniker": "..\\ProjCharGenerator\\ProjCharGenerator.csproj",
               "ToolTip": "C:\\Users\\79087\\mod-lab05-gen\\ProjCharGenerator\\ProjCharGenerator.csproj",
               "RelativeToolTip": "..\\ProjCharGenerator\\ProjCharGenerator.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2025-04-29T13:28:20.457Z",
               "EditorCaption": ""
@@ -56,7 +55,7 @@
               "RelativeDocumentMoniker": "Generator.Tests\\UnitTest1.cs",
               "ToolTip": "C:\\Users\\79087\\mod-lab05-gen\\Generator.Tests\\Generator.Tests\\UnitTest1.cs",
               "RelativeToolTip": "Generator.Tests\\UnitTest1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAYAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-29T13:24:03.485Z",
               "EditorCaption": ""
