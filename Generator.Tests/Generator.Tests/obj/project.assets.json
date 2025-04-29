@@ -5501,6 +5501,7 @@
   },
   "projectFileDependencyGroups": {
     "net7.0": [
+      "C:\\Users\\79087\\mod-lab05-gen\\Generator.Tests\\ProjCharGenerator\\ProjCharGenerator.csproj",
       "Microsoft.NET.Test.Sdk >= 17.8.0",
       "coverlet.collector >= 6.0.0",
       "xunit >= 2.5.3",
@@ -5538,7 +5539,11 @@
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\79087\\mod-lab05-gen\\Generator.Tests\\ProjCharGenerator\\ProjCharGenerator.csproj": {
+              "projectPath": "C:\\Users\\79087\\mod-lab05-gen\\Generator.Tests\\ProjCharGenerator\\ProjCharGenerator.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
@@ -5609,6 +5614,15 @@
     }
   },
   "logs": [
+    {
+      "code": "NU1104",
+      "level": "Error",
+      "message": "Не удалось найти проект \"C:\\Users\\79087\\mod-lab05-gen\\Generator.Tests\\ProjCharGenerator\\ProjCharGenerator.csproj\". Убедитесь, что ссылка на проект действительна и файл проекта существует.",
+      "libraryId": "C:\\Users\\79087\\mod-lab05-gen\\Generator.Tests\\ProjCharGenerator\\ProjCharGenerator.csproj",
+      "targetGraphs": [
+        "net7.0"
+      ]
+    },
     {
       "code": "NU1903",
       "level": "Warning",

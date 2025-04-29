@@ -31,7 +31,11 @@
         "frameworks": {
           "net7.0": {
             "targetAlias": "net7.0",
-            "projectReferences": {}
+            "projectReferences": {
+              "C:\\Users\\79087\\mod-lab05-gen\\Generator.Tests\\ProjCharGenerator\\ProjCharGenerator.csproj": {
+                "projectPath": "C:\\Users\\79087\\mod-lab05-gen\\Generator.Tests\\ProjCharGenerator\\ProjCharGenerator.csproj"
+              }
+            }
           }
         },
         "warningProperties": {

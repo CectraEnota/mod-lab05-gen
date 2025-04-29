@@ -1,7 +1,7 @@
 {
   "version": 2,
-  "dgSpecHash": "wLnmtD9SvTw=",
-  "success": true,
+  "dgSpecHash": "9j2Hz20/zJE=",
+  "success": false,
   "projectFilePath": "C:\\Users\\79087\\mod-lab05-gen\\Generator.Tests\\Generator.Tests\\Generator.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\79087\\.nuget\\packages\\coverlet.collector\\6.0.0\\coverlet.collector.6.0.0.nupkg.sha512",
@@ -98,6 +98,15 @@
     "C:\\Users\\79087\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.20\\microsoft.aspnetcore.app.ref.7.0.20.nupkg.sha512"
   ],
   "logs": [
+    {
+      "code": "NU1104",
+      "level": "Error",
+      "message": "Не удалось найти проект \"C:\\Users\\79087\\mod-lab05-gen\\Generator.Tests\\ProjCharGenerator\\ProjCharGenerator.csproj\". Убедитесь, что ссылка на проект действительна и файл проекта существует.",
+      "libraryId": "C:\\Users\\79087\\mod-lab05-gen\\Generator.Tests\\ProjCharGenerator\\ProjCharGenerator.csproj",
+      "targetGraphs": [
+        "net7.0"
+      ]
+    },
     {
       "code": "NU1903",
       "level": "Warning",
