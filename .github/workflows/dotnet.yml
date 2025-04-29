@@ -21,5 +21,3 @@ jobs:
       run: dotnet build --no-restore
     - name: Test
       run: dotnet test --no-build --verbosity normal
-    - name: Run Application
-      run: dotnet run --project ProjCharGenerator --no-build --configuration Release
