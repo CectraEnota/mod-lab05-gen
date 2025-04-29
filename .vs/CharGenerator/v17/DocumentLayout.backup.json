@@ -5,6 +5,14 @@
     {
       "AbsoluteMoniker": "D:0:0:{50520084-DEC7-4E01-BAB2-5D4043C4C719}|ProjCharGenerator\\ProjCharGenerator.csproj|c:\\users\\79087\\mod-lab05-gen\\projchargenerator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{50520084-DEC7-4E01-BAB2-5D4043C4C719}|ProjCharGenerator\\ProjCharGenerator.csproj|solutionrelative:projchargenerator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A956CB8-5B3B-4B6A-B4B7-D19EB243844D}|TestMy\\TestMy.csproj|c:\\users\\79087\\mod-lab05-gen\\testmy\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A956CB8-5B3B-4B6A-B4B7-D19EB243844D}|TestMy\\TestMy.csproj|solutionrelative:testmy\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A956CB8-5B3B-4B6A-B4B7-D19EB243844D}|TestMy\\TestMy.csproj|c:\\users\\79087\\mod-lab05-gen\\testmy\\testmy.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0A956CB8-5B3B-4B6A-B4B7-D19EB243844D}|TestMy\\TestMy.csproj|solutionrelative:testmy\\testmy.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,8 +22,34 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TestMy",
+              "DocumentMoniker": "C:\\Users\\79087\\mod-lab05-gen\\TestMy\\TestMy.csproj",
+              "RelativeDocumentMoniker": "TestMy\\TestMy.csproj",
+              "ToolTip": "C:\\Users\\79087\\mod-lab05-gen\\TestMy\\TestMy.csproj",
+              "RelativeToolTip": "TestMy\\TestMy.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-29T17:55:13.019Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\79087\\mod-lab05-gen\\TestMy\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "TestMy\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\79087\\mod-lab05-gen\\TestMy\\UnitTest1.cs",
+              "RelativeToolTip": "TestMy\\UnitTest1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T17:49:48.174Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -24,7 +58,7 @@
               "RelativeDocumentMoniker": "ProjCharGenerator\\Program.cs",
               "ToolTip": "C:\\Users\\79087\\mod-lab05-gen\\ProjCharGenerator\\Program.cs",
               "RelativeToolTip": "ProjCharGenerator\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-29T15:27:59.478Z",
               "EditorCaption": ""

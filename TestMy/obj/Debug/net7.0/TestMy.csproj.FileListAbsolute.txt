@@ -1,0 +1,6 @@
+C:\Users\79087\mod-lab05-gen\TestMy\obj\Debug\net7.0\TestMy.csproj.AssemblyReference.cache
+C:\Users\79087\mod-lab05-gen\TestMy\obj\Debug\net7.0\TestMy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\79087\mod-lab05-gen\TestMy\obj\Debug\net7.0\TestMy.AssemblyInfoInputs.cache
+C:\Users\79087\mod-lab05-gen\TestMy\obj\Debug\net7.0\TestMy.AssemblyInfo.cs
+C:\Users\79087\mod-lab05-gen\TestMy\obj\Debug\net7.0\TestMy.csproj.CoreCompileInputs.cache
+C:\Users\79087\mod-lab05-gen\TestMy\obj\Debug\net7.0\TestMy.sourcelink.json

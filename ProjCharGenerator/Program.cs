@@ -8,7 +8,7 @@ using ScottPlot;
 using System.Drawing;
 
 
-namespace generator
+namespace ProjCharGenerator
 {
     public class BigramGenerator
     {
@@ -276,7 +276,7 @@ namespace generator
     {
         public static string GetResultsDirectory()
         {
-            string programDir = Directory.GetParent(Directory.GetCurrentDirectory()).Parent.FullName;
+            string programDir = Directory.GetParent(Directory.GetCurrentDirectory()).Parent.Parent.FullName;
             string resultsDir = Path.Combine(Directory.GetParent(programDir).FullName, "Results");
 
             return resultsDir;

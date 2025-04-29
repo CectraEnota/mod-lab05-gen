@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("ProjCharGenerator")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("TestMy")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bbb1960f5a1f372afd25081971d3471eb3d34787")]
-[assembly: System.Reflection.AssemblyProductAttribute("ProjCharGenerator")]
-[assembly: System.Reflection.AssemblyTitleAttribute("ProjCharGenerator")]
+[assembly: System.Reflection.AssemblyProductAttribute("TestMy")]
+[assembly: System.Reflection.AssemblyTitleAttribute("TestMy")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Создано классом WriteCodeFragment MSBuild.
