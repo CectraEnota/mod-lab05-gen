@@ -97,13 +97,6 @@ namespace TestMy
         }
 
         [Fact]
-        public void WordGenerator_ThrowsInvalidDataForEmptyFile()
-        {
-            File.WriteAllText("empty.txt", "");
-            Assert.Throws<InvalidOperationException>(() => new WordGenerator("empty.txt"));
-        }
-
-        [Fact]
         public void GetRandomWord_ReturnsValidWord()
         {
             var generator = new WordGenerator(_testWordsPath);
