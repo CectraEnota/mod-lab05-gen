@@ -3,10 +3,6 @@
   "WorkspaceRootPath": "C:\\Users\\79087\\mod-lab05-gen\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C4A96550-6359-4565-A5BD-60628E6D8611}|Generator.Tests\\Generator.Tests\\Generator.Tests.csproj|c:\\users\\79087\\mod-lab05-gen\\generator.tests\\generator.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C4A96550-6359-4565-A5BD-60628E6D8611}|Generator.Tests\\Generator.Tests\\Generator.Tests.csproj|solutionrelative:generator.tests\\generator.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{50520084-DEC7-4E01-BAB2-5D4043C4C719}|ProjCharGenerator\\ProjCharGenerator.csproj|c:\\users\\79087\\mod-lab05-gen\\projchargenerator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{50520084-DEC7-4E01-BAB2-5D4043C4C719}|ProjCharGenerator\\ProjCharGenerator.csproj|solutionrelative:projchargenerator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -23,25 +19,12 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "UnitTest1.cs",
-              "DocumentMoniker": "C:\\Users\\79087\\mod-lab05-gen\\Generator.Tests\\Generator.Tests\\UnitTest1.cs",
-              "RelativeDocumentMoniker": "Generator.Tests\\Generator.Tests\\UnitTest1.cs",
-              "ToolTip": "C:\\Users\\79087\\mod-lab05-gen\\Generator.Tests\\Generator.Tests\\UnitTest1.cs",
-              "RelativeToolTip": "Generator.Tests\\Generator.Tests\\UnitTest1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-29T15:28:17.414Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\79087\\mod-lab05-gen\\ProjCharGenerator\\Program.cs",
               "RelativeDocumentMoniker": "ProjCharGenerator\\Program.cs",
               "ToolTip": "C:\\Users\\79087\\mod-lab05-gen\\ProjCharGenerator\\Program.cs",
               "RelativeToolTip": "ProjCharGenerator\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAbAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-29T15:27:59.478Z",
               "EditorCaption": ""
