@@ -233,8 +233,9 @@ namespace generator
             var topData = expected
                 .OrderByDescending(x => x.Value)
                 .Take(50)
-                .Select(x => new {
-                    Key = x.Key,
+                .Select(x => new
+                {
+                    x.Key,
                     Expected = x.Value,
                     Actual = actual.ContainsKey(x.Key) ? actual[x.Key] : 0
                 })
@@ -290,7 +291,7 @@ namespace generator
                 string resultsDir = FileHelper.GetResultsDirectory();
                 var bigramGenerator = new BigramGenerator("bigrams.txt");
                 string bigramText = bigramGenerator.GenerateText(1000);
-                File.WriteAllText((Path.Combine(resultsDir, "gen-1.txt")), bigramText);
+                File.WriteAllText(Path.Combine(resultsDir, "gen-1.txt"), bigramText);
                 var actualBigrams = new Dictionary<string, int>();
                 for (int i = 0; i < bigramText.Length - 1; i++)
                 {

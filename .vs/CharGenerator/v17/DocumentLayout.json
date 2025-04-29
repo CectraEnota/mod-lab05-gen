@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\79087\\mod-lab05-gen\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{50520084-DEC7-4E01-BAB2-5D4043C4C719}|ProjCharGenerator\\ProjCharGenerator.csproj|c:\\users\\79087\\mod-lab05-gen\\projchargenerator\\projchargenerator.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{50520084-DEC7-4E01-BAB2-5D4043C4C719}|ProjCharGenerator\\ProjCharGenerator.csproj|solutionrelative:projchargenerator\\projchargenerator.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{50520084-DEC7-4E01-BAB2-5D4043C4C719}|ProjCharGenerator\\ProjCharGenerator.csproj|c:\\users\\79087\\mod-lab05-gen\\projchargenerator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50520084-DEC7-4E01-BAB2-5D4043C4C719}|ProjCharGenerator\\ProjCharGenerator.csproj|solutionrelative:projchargenerator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,14 +19,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "ProjCharGenerator",
-              "DocumentMoniker": "C:\\Users\\79087\\mod-lab05-gen\\ProjCharGenerator\\ProjCharGenerator.csproj",
-              "RelativeDocumentMoniker": "ProjCharGenerator\\ProjCharGenerator.csproj",
-              "ToolTip": "C:\\Users\\79087\\mod-lab05-gen\\ProjCharGenerator\\ProjCharGenerator.csproj",
-              "RelativeToolTip": "ProjCharGenerator\\ProjCharGenerator.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAtAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-04-29T14:29:55.818Z",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\79087\\mod-lab05-gen\\ProjCharGenerator\\Program.cs",
+              "RelativeDocumentMoniker": "ProjCharGenerator\\Program.cs",
+              "ToolTip": "C:\\Users\\79087\\mod-lab05-gen\\ProjCharGenerator\\Program.cs",
+              "RelativeToolTip": "ProjCharGenerator\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T15:27:59.478Z",
               "EditorCaption": ""
             }
           ]
