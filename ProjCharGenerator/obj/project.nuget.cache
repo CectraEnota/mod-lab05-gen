@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "fnDU6/vT3sY=",
+  "dgSpecHash": "eZ8xbD4wZAk=",
   "success": true,
   "projectFilePath": "C:\\Users\\79087\\mod-lab05-gen\\ProjCharGenerator\\ProjCharGenerator.csproj",
   "expectedPackageFiles": [
@@ -8,11 +8,7 @@
     "C:\\Users\\79087\\.nuget\\packages\\microsoft.win32.systemevents\\4.6.0\\microsoft.win32.systemevents.4.6.0.nupkg.sha512",
     "C:\\Users\\79087\\.nuget\\packages\\scottplot\\4.1.47\\scottplot.4.1.47.nupkg.sha512",
     "C:\\Users\\79087\\.nuget\\packages\\system.drawing.common\\4.6.1\\system.drawing.common.4.6.1.nupkg.sha512",
-    "C:\\Users\\79087\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
-    "C:\\Users\\79087\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.20\\microsoft.windowsdesktop.app.ref.7.0.20.nupkg.sha512",
-    "C:\\Users\\79087\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.20\\microsoft.netcore.app.ref.7.0.20.nupkg.sha512",
-    "C:\\Users\\79087\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.20\\microsoft.aspnetcore.app.ref.7.0.20.nupkg.sha512",
-    "C:\\Users\\79087\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.20\\microsoft.netcore.app.host.win-x64.7.0.20.nupkg.sha512"
+    "C:\\Users\\79087\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512"
   ],
   "logs": [
     {
@@ -22,7 +18,7 @@
       "message": "У пакета \"System.Drawing.Common\" 4.6.1 есть известная уязвимость https://github.com/advisories/GHSA-rxg9-xrhp-64gj (уровень серьезности: критический)",
       "libraryId": "System.Drawing.Common",
       "targetGraphs": [
-        "net7.0"
+        "net8.0"
       ]
     }
   ]
