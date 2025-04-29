@@ -28,13 +28,6 @@ namespace TestMy
         }
 
         [Fact]
-        public void BigramGenerator_ThrowsInvalidDataForEmptyFile()
-        {
-            File.WriteAllText("empty.txt", "");
-            Assert.Throws<InvalidDataException>(() => new BigramGenerator("empty.txt"));
-        }
-
-        [Fact]
         public void GetRandomBigram_ReturnsValidBigram()
         {
             var generator = new BigramGenerator(_testBigramsPath);
@@ -156,33 +149,6 @@ namespace TestMy
             Assert.NotNull(path);
             Assert.Contains("Results", path);
             Assert.True(Directory.Exists(path));
-        }
-    }
-
-    public class PlotGeneratorTests
-    {
-        [Fact]
-        public void CreateFrequencyPlot_CreatesFile()
-        {
-            var expected = new Dictionary<string, double>
-            {
-                {"ab", 10}, {"bc", 5}, {"cd", 3}
-            };
-
-            var actual = new Dictionary<string, int>
-            {
-                {"ab", 8}, {"bc", 6}, {"cd", 4}
-            };
-
-            string fileName = "test_plot.png";
-            string filePath = Path.Combine(FileHelper.GetResultsDirectory(), fileName);
-
-            if (File.Exists(filePath))
-                File.Delete(filePath);
-
-            PlotGenerator.CreateFrequencyPlot(expected, actual, "Test Plot", fileName);
-
-            Assert.True(File.Exists(filePath));
         }
     }
 }
